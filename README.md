@@ -5,12 +5,12 @@ Extract Tiktok Datatime lo que se encarga es de extraer y convertir en horario l
 
 ## Screenshots
 
-![](http://i.ibb.co/996P3NW/Proyecto-nuevo-6.png)
+![](https://i.ibb.co/fvDptDL/image.png)
 
 
 ## Demo
 
-[https://gh3rmy.github.io/TimeArgentina-TikTok/](https://gh3rmy.github.io/ID-Tiktok-Extract/)
+[https://gh3rmy.github.io/ID-Tiktok-Extract/](https://gh3rmy.github.io/ID-Tiktok-Extract/)
 
 
 ## Authors
