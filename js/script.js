@@ -2,7 +2,7 @@ async function getTikTokUserId() {
   const username = document.getElementById('url').value;
   try {
       // Cambia el proxy si es necesario
-      const response = await fetch(`https://cors-anywhere.herokuapp.com/https://www.tiktok.com/@${username}?lang=en`, {
+      const response = await fetch(`https://cors-proxy.htmldriven.com/?url=https://www.tiktok.com/@${username}?lang=en`, {
           method: 'GET',
           headers: {
               'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36'
