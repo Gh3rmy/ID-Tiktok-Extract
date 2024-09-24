@@ -1,7 +1,7 @@
 
-# Extract TikTok Datatime (Argentina)
+# Extract TikTok ID 
 
-Extract Tiktok Datatime lo que se encarga es de extraer y convertir en horario local de argentina siendo Fecha y Hora local de cualquier video de la plataforma TIKTOK.
+Extract Tiktok ID lo que se encarga es de extraer la ID del usuario pudiendo servir para realizar distintos requerimientos o para realizar una busqueda mas especifica de un usuario de la plataforma.
 
 ## Screenshots
 
