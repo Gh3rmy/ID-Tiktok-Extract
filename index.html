@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="css/style.css">
+  <link rel="icon" href="media/favicon.png" type="image/png">
+  <title>ID Extract - Tiktok</title>
+</head>
+<body>
+  
+<main class="container">
+  <form class="form">
+    <div class="form__image"></div>
+    <img src="media/logo.png" class="form__logo">
+    
+   <center><h4>ID Extract TikTok By: Gh3rmy</h4><img src="https://img.freepik.com/vector-gratis/ilustracion-bandera-argentina_53876-27120.jpg" width="25px" height="25px"></center>
+    <div class="input">
+      <input id="url" type="text" name="url" class="input__element" placeholder=""/>
+      <label class="input__label" for="name">Colocar URL Usuario</label>
+    </div>
+    <button onclick="getTikTokUserId()" type="button" class="button">
+      <div class="button__label">Obtener ID</div>
+      <div class="button__icon"></div>
+    </button>
+    <div class="output">
+      <span id="label">ID:  </span>
+      <span id="userId"></span>
+      <button id="copyBtn" type="button" class="copy-button" disabled>Copiar</button>
+    </div>
+  </form>
+ 
+</main>
+  
+
+<script src="js/script.js"></script>
+</body>
+</html>
